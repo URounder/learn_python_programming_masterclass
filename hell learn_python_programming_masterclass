@@ -1,0 +1,10 @@
+Help on function __init__ in module __main__:
+
+____iinniitt____(self, title, artist, duration=0)
+    Song init method
+    
+    Args:
+        title (str): Initialises the 'title' attribute
+        artist (Artist): An artist object representing the songs creator.
+        duration (Optional[int]): Initial value for the 'duration' attribute.
+            Will default to zero if not specified.
